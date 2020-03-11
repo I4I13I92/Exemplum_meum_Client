@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src",
     "\\src\\WZodiacs"
   ],
-  "SelectedNode": "\\src\\assets",
+  "SelectedNode": "\\package-lock.json",
   "PreviewInSolutionExplorer": false
 }
